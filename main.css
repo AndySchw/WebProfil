@@ -1,0 +1,26 @@
+
+
+.abstand{
+    margin: 20px;
+}
+
+.mitte{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+a{
+    color: black;
+}
+
+.hilfe{
+    text-decoration-line: none;
+    margin: 5px;
+    color: black;
+}
+
+.navcolor{
+    background-color: rgb(192, 203, 207);
+}
+
